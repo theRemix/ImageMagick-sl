@@ -22,5 +22,5 @@ If you find that the script uses an outdated version of the requirements or Imag
 
 ## Resources
 
-* [iCoreTech Research Labs](http://www.icoretech.org)
-* [Github Repository](http://github.com/masterkain/ImageMagick-sl)
+* [Installing ImageMagick and RMagick on OSX Snow Leopard Tutorial](http://remixtechnology.com/view/install-rmagick-and-imagemagick-on-osx-snow-leopard-without-macports)
+* [Github Repository](http://github.com/theRemix/ImageMagick-sl)
